@@ -16,3 +16,5 @@ copies of CS50 problem sets solved in C: https://cs50.harvard.edu/x/
 15th May 2026: [Readability](https://cs50.harvard.edu/x/psets/2/readability/)
 
 15th May 2026: [Caesar](https://cs50.harvard.edu/x/psets/2/caesar/)
+
+16th May 2026: [Substitution](https://cs50.harvard.edu/x/psets/2/substitution/)
