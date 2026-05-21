@@ -1,0 +1,13 @@
+// I was given three sort programs to run with sorted and reversed inputs and by looking at time, i had to tell which program is using what sorting algorithm.
+
+sort1 uses: Bubble Sort
+
+How do you know?: It was much faster on already sorted input and had a dramatic delay on reversed input.
+
+sort2 uses: Merge Sort
+
+How do you know?: It takes same amount of time both in already sorted input and reversed input, but lesser than Selection Sort as it's time complexity is theta O(n log n)
+
+sort3 uses: Selection Sort
+
+How do you know?: It takes same amount of time both in already sorted input and reversed input, but more than Merge Sort as it's time complexity is theta n squared.
