@@ -18,3 +18,7 @@ copies of CS50 problem sets solved in C: https://cs50.harvard.edu/x/
 15th May 2026: [Caesar](https://cs50.harvard.edu/x/psets/2/caesar/)
 
 16th May 2026: [Substitution](https://cs50.harvard.edu/x/psets/2/substitution/)
+
+21st May 2026: [Sort](https://cs50.harvard.edu/x/psets/3/sort/)
+
+21st May 2026: [Plurality](https://cs50.harvard.edu/x/psets/3/plurality/)
