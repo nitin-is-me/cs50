@@ -22,3 +22,5 @@ copies of CS50 problem sets solved in C: https://cs50.harvard.edu/x/
 21st May 2026: [Sort](https://cs50.harvard.edu/x/psets/3/sort/)
 
 21st May 2026: [Plurality](https://cs50.harvard.edu/x/psets/3/plurality/)
+
+23rd May 2026: [Runoff](https://cs50.harvard.edu/x/psets/3/runoff/)
