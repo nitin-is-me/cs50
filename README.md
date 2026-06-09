@@ -24,3 +24,5 @@ copies of CS50 problem sets solved in C: https://cs50.harvard.edu/x/
 21st May 2026: [Plurality](https://cs50.harvard.edu/x/psets/3/plurality/)
 
 23rd May 2026: [Runoff](https://cs50.harvard.edu/x/psets/3/runoff/)
+
+9th June 2026: [Volume](https://cs50.harvard.edu/x/psets/4/volume/)
