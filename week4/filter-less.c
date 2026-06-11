@@ -93,6 +93,7 @@ void blur(int height, int width, RGBTRIPLE image[height][width])
     // iterate over original image to replace the colors
     for(int i = 0; i < height; i++){
         for(int j = 0; j < width; j++){
+            // storing pixels neighboring the current pixel, total red, blue and green values to correctly calculate average
             int pixelsAround = 0;
             int totalRed = 0;
             int totalBlue = 0;
