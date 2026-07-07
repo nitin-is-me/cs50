@@ -30,3 +30,7 @@ copies of CS50 problem sets solved in C: https://cs50.harvard.edu/x/
 10th June 2026: [Filter(less)](https://cs50.harvard.edu/x/psets/4/filter/less/)
 
 10th June 2026: [Recover](https://cs50.harvard.edu/x/psets/4/recover/)
+
+07th July 2026: [Inheritance](https://cs50.harvard.edu/x/psets/5/inheritance/)
+
+07th July 2026: [Speller](https://cs50.harvard.edu/x/psets/5/speller/)
