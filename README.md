@@ -33,7 +33,6 @@ copies of CS50 problem sets solved in C: https://cs50.harvard.edu/x/
 
 07th July 2026: [Inheritance](https://cs50.harvard.edu/x/psets/5/inheritance/)
 
-### Week 8 was all about html, css and js, so I didn't upload the files here.
 07th July 2026: [Speller](https://cs50.harvard.edu/x/psets/5/speller/)
 
 09th July 2026: [Songs](https://cs50.harvard.edu/x/psets/7/songs/)
@@ -41,3 +40,5 @@ copies of CS50 problem sets solved in C: https://cs50.harvard.edu/x/
 09th July 2026: [Movies](https://cs50.harvard.edu/x/psets/7/movies/)
 
 10th July 2026: [Fiftyville](https://cs50.harvard.edu/x/psets/7/songs/)
+
+### Week 8 was all about html, css and js, so I didn't upload the files here.
