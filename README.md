@@ -43,4 +43,12 @@ copies of CS50 problem sets solved in C: https://cs50.harvard.edu/x/
 
 ### Week 8 was all about html, css and js, so I didn't upload the files here.
 
+13th July 2026: [Trivia](https://cs50.harvard.edu/x/psets/8/trivia/)
+
+13th July 2026: [Homepage](https://cs50.harvard.edu/x/psets/8/homepage/)
+
 ### Week 9 was all about flask, and aren't worth storing
+
+14th July 2026: [Birthdays](https://cs50.harvard.edu/x/psets/9/birthdays/)
+
+14th July 2026: [Finance](https://cs50.harvard.edu/x/psets/9/finance/)
